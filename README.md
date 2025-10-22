@@ -46,8 +46,4 @@ Vamos nos conectar!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferridev10)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipeferri2016@gmail.com)
 
-## 🐍 Meu Gráfico de Contribuição
 
-<p align="center">
-  <img src="https://github.com/ferridev10/ferridev10/blob/output/github-contribution-grid-snake.svg" alt="Contribuições em forma de cobrinha"/>
-</p>
